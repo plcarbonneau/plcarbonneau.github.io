@@ -1,0 +1,32 @@
+header:
+  - titles:
+      en: &EN Clips
+      en-GB: *EN
+      en-US: *EN
+      en-CA: *EN
+      en-AU: *EN
+    url: /archive.html
+
+  - titles:
+      en: &EN About
+      en-GB: *EN
+      en-US: *EN
+      en-CA: *EN
+      en-AU: *EN
+    url: /about.html
+
+  - titles:
+      en: &EN Resume
+      en-GB: *EN
+      en-US: *EN
+      en-CA: *EN
+      en-AU: *EN
+    url: /resume.html
+
+  - titles:
+      en: &EN Contact
+      en-GB: *EN
+      en-US: *EN
+      en-CA: *EN
+      en-AU: *EN
+    url: /contact.html
