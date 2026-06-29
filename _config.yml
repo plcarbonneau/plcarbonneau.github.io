@@ -16,30 +16,30 @@
 
 ## => Site Settings
 ##############################
-text_skin: dark # "default" (default), "dark", "forest", "ocean", "chocolate", "orange" — dark reads well for a press/journalism site
+text_skin: forest # "default" (default), "dark", "forest", "ocean", "chocolate", "orange" — dark reads well for a press/journalism site
 highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
-url     : https://YOUR_USERNAME.github.io # TODO: replace with your GitHub Pages URL
+url     : https://plcarbonneau.github.io # TODO: replace with your GitHub Pages URL
 baseurl : # leave blank if this is your username.github.io repo; set to "/repo-name" if it's a project repo
-title   : Your Name
+title   : Parker Carbonneau
 description: > # this means to ignore newlines until "Language & timezone"
-  Journalist covering [your beat] — bylines, clips, and contact info.
+  I believe the best stories are found in data and documents and told through the experiences of the people they impact. As a reporter and data journalist, I focus on institutional accountability and local news. I specialize in breaking down complex stories while connecting data to its human impact. Currently, I serve as the News Editor for the Augustana Mirror. My reporting has covered state ballot measures, higher education finance, administrative governance, student government and more.
 
 
 ## => Language and Timezone
 ##############################
 lang: en
-timezone: America/New_York # TODO: set to your timezone, see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Chicago
 
 
 ## => Author and Social
 ##############################
 author:
   type      : person
-  name      : Your Name
+  name      : Parker Carbonneau
   url       :
   avatar    : /assets/images/avatar.jpg # TODO: add a square headshot at this path
-  bio       : Journalist writing about [topics]. Bylines in [Outlet], [Outlet].
-  email     : you@example.com
+  bio       : Investigative Reporter and Data Journalist. Editor in Chief of the Augustana Mirror.
+  email     : plcarbonneau23@ole.augie.edu
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
   twitter   : # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
   weibo     : # "user_id"   the last part of your profile url, e.g. https://www.weibo.com/user_id/profile?...
@@ -48,14 +48,14 @@ author:
   medium    : # "user_name" the last part of your profile url, e.g. https://medium.com/user_name
   zhihu     : # "user_name" the last part of your profile url, e.g. https://www.zhihu.com/people/user_name
   douban    : # "user_name" the last part of your profile url, e.g. https://www.douban.com/people/user_name
-  linkedin  : # "user_name" the last part of your profile url, e.g. https://www.linkedin.com/in/user_name
+  linkedin  : https://www.linkedin.com/in/parker-carbonneau-02420a285/
   github    : # "user_name" the last part of your profile url, e.g. https://github.com/user_name
   npm       : # "user_name" the last part of your profile url, e.g. https://www.npmjs.com/~user_name
 
 
 ## => GitHub Repository (if the site is hosted by GitHub)
 ##############################
-repository: YOUR_USERNAME/YOUR_USERNAME.github.io # TODO: update
+repository: plcarbonneau/plcarbonneau.github.io
 repository_tree: main
 
 
